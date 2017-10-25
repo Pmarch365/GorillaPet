@@ -1,0 +1,33 @@
+
+appleAnimation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+apple1
+  rotate: false
+  xy: 1, 14
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+apple2
+  rotate: false
+  xy: 91, 14
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+apple3
+  rotate: false
+  xy: 181, 14
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+foodempty
+  rotate: false
+  xy: 1, 1
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
